@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=k43ru&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k43ru&layout=compact&langs_count=4&theme=dark">
 </div>
-  <div style="width: 100%; display: flex; justify-content: center;">
+  <div style="width: 100%; display: flex; margin-left: 300px;">
 <code><img alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
 <code><img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img alt="Ts" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
